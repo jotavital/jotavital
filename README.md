@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working at Siamel Softawres / Slapfestas
+- 🔭 I’m currently working at Siamel Softwares / Slapfestas
 - 🌱 I’m currently learning React, JS, Laravel, PHP
 - 💬 Ask me about anything
 
