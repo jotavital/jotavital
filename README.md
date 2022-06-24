@@ -25,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jotavital&show_icons=true&locale=en&layout=compact" alt="jotavital" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jotavital&show_icons=true&locale=en" alt="jotavital" /></p>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jotavital)](https://github.com/anuraghazra/github-readme-stats)
