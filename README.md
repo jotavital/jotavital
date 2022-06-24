@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Pedro Vital</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working at Siamel Softwares [SLAPFestas](slapfestas.com.br)
+- 🔭 I’m currently working at Siamel Softwares [SLAPFestas](https://slapfestas.com.br)
 
 - 🌱 I’m currently learning **Laravel, React.JS**
 
