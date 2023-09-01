@@ -5,11 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel, React.JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jotavital](https://github.com/jotavital)
-
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **joaopedrovitaldoctum@gmail.com**
+- 📫 Reach me at **joaopedrovitaldoctum@gmail.com**
 
 - ⚡ Fun fact **I'm a left-handed drummer**
 
