@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Ticto Tecnologia](https://ticto.com.br)
 
-- 🌱 I’m currently learning **Laravel, React.JS**
+- 🌱 I’m currently learning **Node.js, MongoDB, React Native**
 
 - 📫 Reach me at **joaopedrovitaldoctum@gmail.com**
 
